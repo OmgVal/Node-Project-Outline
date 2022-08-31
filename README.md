@@ -8,4 +8,4 @@
 1. Install using your terminal 'npm i {npm name}'
 1. Once installed in file of your choice you will open it on your code editor
 1. you should see a folder called "node modules", if present you will add a '.gitignore' file to ensure your github does not mess with it. Add "node_modules" to it. 
-
+1. node {filename}.js to run it 
